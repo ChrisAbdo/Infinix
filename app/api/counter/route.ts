@@ -1,6 +1,5 @@
 let counter = 0;
 
-// Increment the counter every second
 setInterval(() => {
   counter++;
 }, 1000);
